@@ -1,1 +1,1 @@
-print ("Hello geodezja z watu")
+print ("Hello mog")
