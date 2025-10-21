@@ -1,1 +1,1 @@
-print ("Hello mog")
+print ("Hello sala 205")
