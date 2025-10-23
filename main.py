@@ -1,1 +1,1 @@
-print ("Hello sala 205")
+print ("Hello programowanie")
